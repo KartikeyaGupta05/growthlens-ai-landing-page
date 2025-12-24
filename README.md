@@ -1,16 +1,79 @@
-# React + Vite
+# GrowthLens AI – SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive SaaS landing page for an AI-powered business insights platform called **GrowthLens AI**.  
+This project was built as part of a frontend assignment to demonstrate clean UI design, responsive layouts, and professional React component structure.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- Modern B2B SaaS landing page design
+- Fully responsive (mobile-first)
+- Clean and minimal UI
+- Professional typography and spacing
+- Pricing section with highlighted plan
+- Call-to-action sections
+- Sticky navigation bar
+- Footer with social links
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**
+- **Tailwind CSS**
+- **Lucide Icons**
+- **Vite**
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+├── App.jsx
+├── main.jsx
+├── index.css
+└── assets/
+```
+---
+
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/USERNAME/growthlens-ai-landing-page.git
+````
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Run the development server
+
+```bash
+npm run dev
+```
+
+## 📌 Notes
+
+* This project focuses on **UI/UX and frontend implementation**.
+* All content and branding are created for demonstration purposes.
+* No backend or API integration is included.
+
+---
+
+## 👤 Author
+
+**Kartikeya Gupta**
+Frontend Developer | React | Tailwind CSS
+
+* LinkedIn: [https://www.linkedin.com/in/kartikeyagupta05](https://www.linkedin.com/in/kartikeyagupta05)
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
